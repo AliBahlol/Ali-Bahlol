@@ -2,6 +2,8 @@ num1 = float(input("Enter Your First Number: "))
 opr = input("Enter Your Operator: ")
 num2 = float(input("Enter Your Second Number: "))
 
+#You can remove this comment but I need to tell You 1 thimg that after writing this: if opr == "+": press enter and then type print(num1 + num2)do this for all elif statements.
+
 if opr == "+":
 print(num1 + num2)
 
